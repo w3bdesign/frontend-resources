@@ -10,13 +10,13 @@ Personal collection of awesome frontend resources
 
 ## Storybook
 
--   <https://storybook.js.org/showcase> - Thousands of components and libraries from leading UI engineering teams.
+-   [Thousands of components and libraries from leading UI engineering teams](https://storybook.js.org/showcase) 
 
 ## React
 
--   <https://www.freecodecamp.org/news/the-react-cheatsheet> - React Cheatsheet
+-   [React Cheatsheet](https://www.freecodecamp.org/news/the-react-cheatsheet)
 
--   <https://johno.com/using-react-context-with-a-custom-hook> - Custom context hook
+-   [Custom context hook](https://johno.com/using-react-context-with-a-custom-hook)
 
 ### CSS
 
