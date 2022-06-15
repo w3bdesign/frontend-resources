@@ -28,6 +28,8 @@ Personal collection of awesome frontend resources
 
 -   [Flex Cheatsheet](https://flexbox.malven.co/): Learn all about the properties available in CSS Flex Layout through simple visual examples.
 
+-   [CSS animations](https://xsgames.co/animatiss)
+
 ### Javascript
 
 -   [Javascript cheatsheet](https://overapi.com/javascript): Javascript
