@@ -37,3 +37,7 @@ Personal collection of awesome frontend resources
 -   [Essential Javascript methods](https://cheatography.com/bytecut/cheat-sheets/essential-vanilla-javascript-methods): Essential Javascript methods
 
 -   [JavaScript Functions and Helpers](https://plainjs.com/javascript): Vanilla JS utilities for writing powerful web applications without jQuery
+
+### Learning Javascript
+
+https://www.freecodecamp.org/news/javascript-projects-for-beginners/amp/#
